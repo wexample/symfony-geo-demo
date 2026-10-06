@@ -1,11 +1,40 @@
 {
   "name": "wexample/symfony-geo-demo",
+  "description": "Demo of symfony-geo: located addresses on a map, and a road between them",
   "version": "1.0.1",
   "type": "library",
   "license": "MIT",
   "autoload": {
     "psr-4": {
       "Wexample\\SymfonyGeoDemo\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "weeger",
+      "email": "romain.weeger@wexample.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.5",
+    "wexample/symfony-design-system": ">=30.0.0",
+    "wexample/symfony-geo": ">=4.0.0",
+    "wexample/symfony-geo-ds": ">=1.0.0",
+    "wexample/symfony-helpers": ">=15.0.0",
+    "wexample/symfony-loader": ">=20.0.0"
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../*",
+      "options": {
+        "symlink": true
+      }
+    }
+  ],
+  "extra": {
+    "install": {
+      "bundle_env": "all"
     }
   }
 }

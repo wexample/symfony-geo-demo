@@ -1,0 +1,15 @@
+{%- extends '@front/layouts/private/layout.html.twig' -%}
+
+{%- set page_show_title = true -%}
+
+{%- block page_body -%}
+    <p class="text-secondary">{{ '@page::intro' | trans }}</p>
+
+    {{ geo_map(stops|map(stop => { point: stop, label: stop.name }), { route: true, height: '28rem' }) }}
+
+    <ol>
+        {%- for stop in stops -%}
+            <li><strong>{{ stop.name }}</strong> — {{ stop.toStringInline() }}</li>
+        {%- endfor -%}
+    </ol>
+{%- endblock -%}

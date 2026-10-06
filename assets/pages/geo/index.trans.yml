@@ -1,0 +1,31 @@
+en:
+  page_title: Geo
+  page_icon: ph:bold/map-trifold
+  intro: >-
+    Places stored with a postal address and the point it sits on, pinned on an
+    open source map: MapLibre drawing OpenFreeMap tiles, no key and no tracking.
+    A pin opens the place's name.
+  geocoder:
+    label: Geocoder
+    available: Installed, addresses without a point can be located
+    missing: None installed, points are typed in or imported
+  column:
+    name: Place
+    address: Address
+    point: Latitude, longitude
+
+fr:
+  page_title: Géo
+  page_icon: ph:bold/map-trifold
+  intro: >-
+    Des lieux enregistrés avec leur adresse postale et le point où ils se
+    trouvent, épinglés sur une carte open source : MapLibre avec les tuiles
+    OpenFreeMap, sans clé ni pistage. Un pin affiche le nom du lieu.
+  geocoder:
+    label: Géocodeur
+    available: Installé, les adresses sans point peuvent être localisées
+    missing: Aucun, les points sont saisis ou importés
+  column:
+    name: Lieu
+    address: Adresse
+    point: Latitude, longitude
