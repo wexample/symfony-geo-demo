@@ -1,6 +1,6 @@
 # symfony-geo-demo
 
-Version: 2.0.4
+Version: 2.0.5
 
 Demo of symfony-geo: located addresses on a map, and a road between them
 
@@ -27,7 +27,7 @@ Visit the [Wexample Suite documentation](https://docs.wexample.com) for the comp
 
 - php: >=8.5
 - wexample/symfony-design-system: >=35.0.0
-- wexample/symfony-geo: >=6.0.0
+- wexample/symfony-geo: >=7.0.0
 - wexample/symfony-geo-ds: >=3.0.0
 - wexample/symfony-helpers: >=16.0.0
 - wexample/symfony-loader: >=23.0.0
