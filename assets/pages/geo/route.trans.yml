@@ -5,3 +5,13 @@ en:
     The road joining three places, in order, asked of an OSRM server. The
     public one serves demos only: an app in production points
     wexample_symfony_geo_ds.routing.url at its own.
+
+fr:
+  page_title: Itinéraire
+  page_icon: 'ph:bold/path'
+  intro: "La route reliant trois lieux, dans l'ordre, demandée à un serveur OSRM. Le public sert uniquement aux démonstrations : une application en production pointe wexample_symfony_geo_ds.routing.url vers la sienne."
+
+zh:
+  page_title: 路线
+  page_icon: 'ph:bold/path'
+  intro: '连接三个地点的道路，按照顺序，由 OSRM 服务器请求。公共服务器仅用于演示：生产中的应用程序将 wexample_symfony_geo_ds.routing.url 指向自己的服务器。'

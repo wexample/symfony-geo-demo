@@ -13,3 +13,29 @@ en:
     name: Place
     address: Address
     point: Latitude, longitude
+
+fr:
+  page_title: Géo
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Lieux stockés avec une adresse postale et le point où ils se trouvent, épinglés sur une carte open source : MapLibre dessinant des tuiles OpenFreeMap, sans clé et sans suivi. Une épingle ouvre le nom du lieu.'
+  geocoder:
+    label: Géocodeur
+    available: 'Installé, les adresses sans point peuvent être localisées'
+    missing: 'Aucun installé, les points sont saisis ou importés'
+  column:
+    name: Lieu
+    address: Adresse
+    point: 'Latitude, longitude'
+
+zh:
+  page_title: 地理
+  page_icon: 'ph:bold/map-trifold'
+  intro: '存储有邮政地址的地点及其所在位置，标记在开放源代码地图上：MapLibre 绘制 OpenFreeMap 瓦片，无需密钥且不进行追踪。点击标记可打开地点名称。'
+  geocoder:
+    label: 地理编码器
+    available: 已安装，可以定位没有点的地址
+    missing: 未安装，位置需手动输入或导入
+  column:
+    name: 地点
+    address: 地址
+    point: 纬度，经度
