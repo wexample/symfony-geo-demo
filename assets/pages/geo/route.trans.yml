@@ -15,3 +15,103 @@ zh:
   page_title: 路线
   page_icon: 'ph:bold/path'
   intro: '连接三个地点的道路，按照顺序，由 OSRM 服务器请求。公共服务器仅用于演示：生产中的应用程序将 wexample_symfony_geo_ds.routing.url 指向自己的服务器。'
+
+ar:
+  page_title: المسار
+  page_icon: 'ph:bold/path'
+  intro: 'الطريق الذي يربط بين ثلاثة أماكن، بالترتيب، طلب من خادم OSRM. الخادم العام يخدم العروض فقط: تطبيق في الإنتاج يشير إلى wexample_symfony_geo_ds.routing.url الخاص به.'
+
+hi:
+  page_title: मार्ग
+  page_icon: 'ph:bold/path'
+  intro: 'तीन स्थानों को, क्रम में, जोड़ने वाला रास्ता, OSRM सर्वर से पूछा गया। सार्वजनिक वाला केवल डेमो प्रदान करता है: उत्पादन में एक ऐप अपने स्वयं के wexample_symfony_geo_ds.routing.url पर इंगित करता है।'
+
+he:
+  page_title: נתיב
+  page_icon: 'ph:bold/path'
+  intro: 'הדרך המחברת בין שלושה מקומות, בסדר, שנשאלה משרת OSRM. הציבורי משמש רק להצגות: אפליקציה בייצור מצביעה wexample_symfony_geo_ds.routing.url על שלה.'
+
+fa:
+  page_title: مسیر
+  page_icon: 'ph:bold/path'
+  intro: 'جاده‌ای که سه مکان را به ترتیب به هم متصل می‌کند و از یک سرور OSRM خواسته می‌شود. نسخه عمومی فقط برای دموها است: یک اپلیکیشن در حال تولید به wexample_symfony_geo_ds.routing.url خود اشاره می‌کند.'
+
+ur:
+  page_title: راستہ
+  page_icon: 'ph:bold/path'
+  intro: 'تین مقامات کو جوڑنے والی سڑک، ترتیب کے مطابق، OSRM سرور سے پوچھی گئی۔ عوامی سرور صرف ڈیمو کے لیے ہے: پروڈکشن میں ایک ایپ اپنے لیے wexample_symfony_geo_ds.routing.url کی طرف اشارہ کرتی ہے۔'
+
+ja:
+  page_title: ルート
+  page_icon: 'ph:bold/path'
+  intro: OSRMサーバーに依頼された、順番に3つの地点を結ぶ道路。公共のものはデモ専用で、実稼働中のアプリは自分のwexample_symfony_geo_ds.routing.urlを指しています。
+
+ko:
+  page_title: 경로
+  page_icon: 'ph:bold/path'
+  intro: '세 장소를 순서대로 연결하는 도로로, OSRM 서버에 요청합니다. 공용 서버는 데모 용도로만 사용되며, 실제 운영 중인 앱은 자신의 wexample_symfony_geo_ds.routing.url을 가리킵니다.'
+
+bn:
+  page_title: রাস্তা
+  page_icon: 'ph:bold/path'
+  intro: 'তিনটি স্থানের মধ্যে সংযোগকারী রাস্তা, OSRM সার্ভার থেকে জিজ্ঞাসা করা হয়েছে। জনসাধারণের জন্য একটি ডেমো সার্ভার রয়েছে: একটি উৎপাদন অ্যাপ্লিকেশন নিজস্ব ঠিকানায় wexample_symfony_geo_ds.routing.url নির্দেশ করে।'
+
+th:
+  page_title: เส้นทาง
+  page_icon: 'ph:bold/path'
+  intro: 'ถนนที่เชื่อมโยงสามสถานที่ตามลำดับ ซึ่งขอจากเซิร์ฟเวอร์ OSRM เซิร์ฟเวอร์สาธารณะให้บริการเฉพาะการสาธิต: แอปพลิเคชันในระบบผลิตชี้ไปที่ wexample_symfony_geo_ds.routing.url ของตนเอง.'
+
+de:
+  page_title: Route
+  page_icon: 'ph:bold/path'
+  intro: 'Die Straße, die drei Orte in der richtigen Reihenfolge verbindet, wurde von einem OSRM-Server angefordert. Der öffentliche Server dient nur Demos: Eine Produktionsanwendung verweist wexample_symfony_geo_ds.routing.url auf ihre eigene.'
+
+fi:
+  page_title: Reitti
+  page_icon: 'ph:bold/path'
+  intro: 'Tie, joka yhdistää kolme paikkaa järjestyksessä, kysytään OSRM-palvelimelta. Julkinen palvelee vain demotarkoituksia: tuotantokäytössä oleva sovellus osoittaa wexample_symfony_geo_ds.routing.url omaansa.'
+
+ru:
+  page_title: Маршрут
+  page_icon: 'ph:bold/path'
+  intro: 'Дорога, соединяющая три места в указанном порядке, запрашиваемая у сервера OSRM. Публичный сервер предназначен только для демонстраций: приложение в производстве указывает wexample_symfony_geo_ds.routing.url на свой собственный.'
+
+pl:
+  page_title: Trasa
+  page_icon: 'ph:bold/path'
+  intro: 'Droga łącząca trzy miejsca, w kolejności, zapytana o serwer OSRM. Publiczny serwer służy tylko do pokazów: aplikacja w produkcji kieruje wexample_symfony_geo_ds.routing.url na własny.'
+
+es:
+  page_title: Ruta
+  page_icon: 'ph:bold/path'
+  intro: 'La carretera que une tres lugares, en orden, solicitada a un servidor OSRM. El público solo sirve para demostraciones: una aplicación en producción apunta wexample_symfony_geo_ds.routing.url a la suya.'
+
+it:
+  page_title: Percorso
+  page_icon: 'ph:bold/path'
+  intro: "La strada che unisce tre luoghi, in ordine, richiesta a un server OSRM. Quello pubblico serve solo per le dimostrazioni: un'app in produzione punta wexample_symfony_geo_ds.routing.url al proprio."
+
+pt_BR:
+  page_title: Rota
+  page_icon: 'ph:bold/path'
+  intro: 'A estrada que liga três lugares, em ordem, solicitada a um servidor OSRM. O público serve apenas para demonstrações: um aplicativo em produção aponta wexample_symfony_geo_ds.routing.url para o seu próprio.'
+
+tr:
+  page_title: Rota
+  page_icon: 'ph:bold/path'
+  intro: 'Üç yeri sırasıyla birleştiren yol, bir OSRM sunucusundan istenmektedir. Kamuya açık olanı yalnızca demolar için hizmet vermektedir: üretimdeki bir uygulama, kendi adresine wexample_symfony_geo_ds.routing.url yönlendirmesi yapar.'
+
+vi:
+  page_title: 'Lộ trình'
+  page_icon: 'ph:bold/path'
+  intro: 'Con đường nối ba địa điểm lại với nhau, theo thứ tự, yêu cầu từ một máy chủ OSRM. Máy chủ công cộng chỉ phục vụ cho các bản demo: một ứng dụng trong môi trường sản xuất chỉ đến wexample_symfony_geo_ds.routing.url của chính nó.'
+
+id:
+  page_title: Rute
+  page_icon: 'ph:bold/path'
+  intro: 'Jalan yang menghubungkan tiga tempat, secara berurutan, diminta dari server OSRM. Yang publik hanya melayani demo: aplikasi dalam produksi mengarah ke wexample_symfony_geo_ds.routing.url pada miliknya sendiri.'
+
+nl:
+  page_title: Route
+  page_icon: 'ph:bold/path'
+  intro: "De weg die drie plaatsen verbindt, in volgorde, opgevraagd bij een OSRM-server. De publieke server is alleen voor demo's: een app in productie wijst wexample_symfony_geo_ds.routing.url naar de eigen."

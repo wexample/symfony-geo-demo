@@ -39,3 +39,263 @@ zh:
     name: 地点
     address: 地址
     point: 纬度，经度
+
+ar:
+  page_title: جيو
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'أماكن مخزنة بعنوان بريدي والنقطة التي تقع عليها، مثبتة على خريطة مفتوحة المصدر: MapLibre ترسم بلاطات OpenFreeMap، بدون مفتاح وبدون تتبع. دبوس يفتح اسم المكان.'
+  geocoder:
+    label: 'محدد المواقع'
+    available: 'مثبت، يمكن تحديد العناوين التي لا تحتوي على نقطة'
+    missing: 'لا يوجد أي مثبت، النقاط يتم كتابتها أو استيرادها'
+  column:
+    name: مكان
+    address: عنوان
+    point: 'خط العرض، خط الطول'
+
+hi:
+  page_title: भूगोल
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'पते के साथ संग्रहीत स्थान और जिस बिंदु पर यह स्थित है, उसे एक ओपन सोर्स मानचित्र पर पिन किया गया है: MapLibre OpenFreeMap टाइल्स बनाना, कोई कुंजी और कोई ट्रैकिंग नहीं। एक पिन स्थान का नाम खोलता है।'
+  geocoder:
+    label: जियोकोडर
+    available: 'इंस्टॉल किया गया, बिना बिंदु के पते का स्थान पाया जा सकता है'
+    missing: 'कोई इंस्टॉल नहीं, बिंदु टाइप किए गए हैं या आयात किए गए हैं'
+  column:
+    name: स्थान
+    address: पता
+    point: 'अक्षांश, देशांतर'
+
+he:
+  page_title: גיאו
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'מקומות שנשמרו עם כתובת דואר ונקודת המיקום שלהם, מסומנים על מפה בקוד פתוח: MapLibre מציירת טילס של OpenFreeMap, ללא מפתח וללא מעקב. סיכה פותחת את שם המקום.'
+  geocoder:
+    label: גיאוקודר
+    available: 'מותקן, כתובות ללא נקודה יכולות להימצא'
+    missing: 'אין מותקן, נקודות מוזנות או מיובאות'
+  column:
+    name: מקום
+    address: כתובת
+    point: 'קו רוחב, קו אורך'
+
+fa:
+  page_title: جغرافیا
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'مکان‌هایی که با یک آدرس پستی ذخیره شده‌اند و نقطه‌ای که روی آن قرار دارند، روی نقشه‌ای منبع باز: نقشه‌لیبره که کاشی‌های OpenFreeMap را ترسیم می‌کند، بدون کلید و بدون ردیابی. یک پین نام مکان را باز می‌کند.'
+  geocoder:
+    label: 'ژئوکد کننده'
+    available: 'نصب شده، آدرس‌ها بدون نقطه قابل شناسایی هستند'
+    missing: 'هیچ یک نصب نشده، نقاط وارد یا تایپ می‌شوند'
+  column:
+    name: مکان
+    address: آدرس
+    point: 'عرض جغرافیایی، طول جغرافیایی'
+
+ur:
+  page_title: جغرافیا
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'ایسی جگہیں جو ڈاک کے پتے کے ساتھ محفوظ ہیں اور جس نقطہ پر وہ واقع ہیں، ایک اوپن سورس نقشے پر پن کی گئی ہیں: MapLibre اوپن فری میپ ٹائلز بناتا ہے، بغیر کسی کلید اور بغیر کسی ٹریکنگ کے۔ ایک پن جگہ کا نام کھولتا ہے۔'
+  geocoder:
+    label: 'جغرافیائی کوڈر'
+    available: 'انسٹال کیا گیا ہے، بغیر نقطے کے پتے تلاش کیے جا سکتے ہیں'
+    missing: 'کوئی انسٹال نہیں، نقاط ٹائپ یا درآمد کیے گئے ہیں'
+  column:
+    name: جگہ
+    address: پتہ
+    point: 'عرض بلد، طول بلد'
+
+ja:
+  page_title: 地理
+  page_icon: 'ph:bold/map-trifold'
+  intro: 郵便住所で保存された場所と、その場所の位置を示すポイントがオープンソースマップにピン留めされています：MapLibreがOpenFreeMapタイルを描画しており、キーやトラッキングはありません。ピンをクリックすると、その場所の名前が表示されます。
+  geocoder:
+    label: ジオコーダー
+    available: インストール済み、ポイントのない住所を特定できます
+    missing: インストールされていません、ポイントは手動で入力またはインポートされます
+  column:
+    name: 場所
+    address: 住所
+    point: 緯度、経度
+
+ko:
+  page_title: 지리
+  page_icon: 'ph:bold/map-trifold'
+  intro: '우편 주소로 저장된 장소와 그 위치를 표시하는 오픈 소스 지도에 핀으로 표시됩니다: MapLibre에서 OpenFreeMap 타일을 그리며, 키와 추적이 없습니다. 핀을 클릭하면 장소의 이름이 열립니다.'
+  geocoder:
+    label: 지오코더
+    available: '설치됨, 지점이 없는 주소를 찾을 수 있습니다'
+    missing: '설치된 것이 없습니다, 지점은 입력되거나 가져옵니다'
+  column:
+    name: 장소
+    address: 주소
+    point: '위도, 경도'
+
+bn:
+  page_title: জিও
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'পোস্টাল ঠিকানা সহ সংরক্ষিত স্থান এবং এটি যে পয়েন্টে অবস্থিত, একটি ওপেন সোর্স ম্যাপে পিন করা: MapLibre OpenFreeMap টাইলগুলি আঁকছে, কোন কী এবং কোন ট্র্যাকিং নেই। একটি পিন স্থানটির নাম খোলে।'
+  geocoder:
+    label: জিওকোডার
+    available: 'ইনস্টল করা হয়েছে, পয়েন্ট ছাড়া ঠিকানা খুঁজে পাওয়া যাবে'
+    missing: 'কোনও ইনস্টল করা নেই, পয়েন্টগুলি টাইপ করা বা আমদানি করা হয়'
+  column:
+    name: স্থান
+    address: ঠিকানা
+    point: 'অক্ষাংশ, দ্রাঘিমা'
+
+th:
+  page_title: จีโอ
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'สถานที่ที่เก็บไว้พร้อมที่อยู่ไปรษณีย์และจุดที่ตั้งบนแผนที่โอเพ่นซอร์ส: MapLibre วาดแผนที่ OpenFreeMap ไม่ต้องใช้คีย์และไม่มีการติดตาม ปักหมุดจะเปิดชื่อสถานที่'
+  geocoder:
+    label: Geocoder
+    available: 'ติดตั้งแล้ว, ที่อยู่ที่ไม่มีจุดสามารถค้นหาได้'
+    missing: 'ไม่มีการติดตั้ง, จุดถูกพิมพ์หรืออิมพอร์ต'
+  column:
+    name: สถานที่
+    address: ที่อยู่
+    point: 'ละติจูด, ลองจิจูด'
+
+de:
+  page_title: Geo
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Orte, die mit einer Postadresse gespeichert sind und der Punkt, an dem sie sich befinden, auf einer Open-Source-Karte angezeigt werden: MapLibre zeichnet OpenFreeMap-Kacheln, kein Schlüssel und keine Nachverfolgung. Ein Pin öffnet den Namen des Ortes.'
+  geocoder:
+    label: Geocoder
+    available: 'Installiert, Adressen ohne Punkt können lokalisiert werden'
+    missing: 'Keine installiert, Punkte werden eingegeben oder importiert'
+  column:
+    name: Ort
+    address: Adresse
+    point: 'Breitengrad, Längengrad'
+
+fi:
+  page_title: Geo
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Paikat, joilla on postiosoite ja niiden sijaintipiste, merkitty avoimen lähdekoodin kartalle: MapLibre piirtää OpenFreeMap-laattoja, ei avainta eikä seurantaa. Nuoli avaa paikan nimen.'
+  geocoder:
+    label: Geokooderi
+    available: 'Asennettu, osoitteet ilman pistettä voidaan paikantaa'
+    missing: 'Ei asennettu, pisteet syötetään tai tuodaan'
+  column:
+    name: Paikka
+    address: Osoite
+    point: 'Leveysaste, pituusaste'
+
+ru:
+  page_title: Гео
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Места, сохраненные с почтовым адресом и точкой на открытой карте: MapLibre рисует тайлы OpenFreeMap, без ключа и без отслеживания. Метка открывает название места.'
+  geocoder:
+    label: Геокодер
+    available: 'Установлен, адреса без точки можно найти'
+    missing: 'Не установлен, точки вводятся или импортируются'
+  column:
+    name: Место
+    address: Адрес
+    point: 'Широта, долгота'
+
+pl:
+  page_title: Geo
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Miejsca przechowywane z adresem pocztowym i punktem, w którym się znajdują, przypięte na otwartej mapie źródłowej: MapLibre rysującej kafelki OpenFreeMap, bez klucza i bez śledzenia. Przypinka otwiera nazwę miejsca.'
+  geocoder:
+    label: Geokoder
+    available: 'Zainstalowany, adresy bez punktu mogą być zlokalizowane'
+    missing: 'Brak zainstalowanych, punkty są wpisywane lub importowane'
+  column:
+    name: Miejsce
+    address: Adres
+    point: 'Szerokość geograficzna, długość geograficzna'
+
+es:
+  page_title: Geo
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Lugares almacenados con una dirección postal y el punto en el que se encuentran, fijados en un mapa de código abierto: MapLibre dibujando los mosaicos de OpenFreeMap, sin clave y sin seguimiento. Un pin abre el nombre del lugar.'
+  geocoder:
+    label: Geocodificador
+    available: 'Instalado, se pueden localizar direcciones sin un punto'
+    missing: 'Ninguno instalado, los puntos se escriben o se importan'
+  column:
+    name: Lugar
+    address: Dirección
+    point: 'Latitud, longitud'
+
+it:
+  page_title: Geo
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Luoghi memorizzati con un indirizzo postale e il punto in cui si trovano, fissati su una mappa open source: MapLibre che disegna i riquadri di OpenFreeMap, senza chiave e senza tracciamento. Un pin apre il nome del luogo.'
+  geocoder:
+    label: Geocodificatore
+    available: 'Installato, gli indirizzi senza un punto possono essere localizzati'
+    missing: 'Nessuno installato, i punti sono digitati o importati'
+  column:
+    name: Luogo
+    address: Indirizzo
+    point: 'Latitudine, longitudine'
+
+pt_BR:
+  page_title: Geo
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Locais armazenados com um endereço postal e o ponto onde estão, fixados em um mapa de código aberto: MapLibre desenhando os blocos do OpenFreeMap, sem chave e sem rastreamento. Um pino abre o nome do local.'
+  geocoder:
+    label: Geocodificador
+    available: 'Instalado, endereços sem um ponto podem ser localizados'
+    missing: 'Nenhum instalado, pontos são digitados ou importados'
+  column:
+    name: Local
+    address: Endereço
+    point: 'Latitude, longitude'
+
+tr:
+  page_title: Coğrafya
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Bir posta adresi ile saklanan yerler ve yerin bulunduğu nokta, açık kaynak haritasında işaretlenmiştir: MapLibre, OpenFreeMap karolarını çiziyor, anahtar yok ve takip yok. Bir pim, yerin adını açar.'
+  geocoder:
+    label: 'Adres Bulucu'
+    available: 'Kurulu, noktası olmayan adresler bulunabilir'
+    missing: 'Kurulu yok, noktalar yazılır veya içe aktarılır'
+  column:
+    name: Yer
+    address: Adres
+    point: 'Enlem, boylam'
+
+vi:
+  page_title: 'Địa lý'
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Các địa điểm được lưu trữ với địa chỉ bưu điện và điểm mà nó nằm trên, được ghim trên bản đồ mã nguồn mở: MapLibre vẽ các ô OpenFreeMap, không cần khóa và không theo dõi. Một cái ghim mở ra tên địa điểm.'
+  geocoder:
+    label: Geocoder
+    available: 'Đã cài đặt, các địa chỉ không có điểm có thể được xác định vị trí'
+    missing: 'Không có gì được cài đặt, các điểm được nhập thủ công hoặc nhập khẩu'
+  column:
+    name: 'Địa điểm'
+    address: 'Địa chỉ'
+    point: 'Vĩ độ, kinh độ'
+
+id:
+  page_title: Geo
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Tempat yang disimpan dengan alamat pos dan titiknya, ditandai pada peta sumber terbuka: MapLibre menggambar ubin OpenFreeMap, tanpa kunci dan tanpa pelacakan. Sebuah pin membuka nama tempat.'
+  geocoder:
+    label: Geocoder
+    available: 'Terinstal, alamat tanpa titik dapat dilokalisasi'
+    missing: 'Tidak ada yang terinstal, titik diketik atau diimpor'
+  column:
+    name: Tempat
+    address: Alamat
+    point: 'Garis lintang, garis bujur'
+
+nl:
+  page_title: Geo
+  page_icon: 'ph:bold/map-trifold'
+  intro: 'Plaatsen opgeslagen met een postadres en het punt waar ze zich bevinden, vastgelegd op een open source kaart: MapLibre tekent OpenFreeMap tegels, geen sleutel en geen tracking. Een pin opent de naam van de plaats.'
+  geocoder:
+    label: Geocoder
+    available: 'Geïnstalleerd, adressen zonder punt kunnen worden gevonden'
+    missing: 'Geen geïnstalleerd, punten worden getypt of geïmporteerd'
+  column:
+    name: Plaats
+    address: Adres
+    point: 'Breedte, lengte'
