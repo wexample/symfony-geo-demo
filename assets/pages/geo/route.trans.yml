@@ -1,5 +1,6 @@
 en:
   page_title: Route
+  document_title: "Road routing between places with OSRM"
   page_description: "A road route joining several places in order, computed by an OSRM routing server and drawn on an open-source map."
   page_icon: ph:bold/path
   intro: >-

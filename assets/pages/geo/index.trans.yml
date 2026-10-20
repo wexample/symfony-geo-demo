@@ -1,5 +1,6 @@
 en:
   page_title: Geo
+  document_title: "Places on an open-source map with MapLibre"
   page_description: "Places stored with their postal address and coordinates, pinned on an open-source MapLibre map with OpenFreeMap tiles — no API key, no tracking."
   page_icon: ph:bold/map-trifold
   intro: >-
