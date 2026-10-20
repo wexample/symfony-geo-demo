@@ -18,6 +18,7 @@ en:
 
 fr:
   page_title: Géo
+  document_title: 'Lieux sur une carte open-source avec MapLibre'
   page_description: "Des lieux enregistrés avec leur adresse postale et leurs coordonnées, épinglés sur une carte MapLibre open source aux tuiles OpenFreeMap — sans clé d'API ni pistage."
   page_icon: 'ph:bold/map-trifold'
   intro: 'Lieux stockés avec une adresse postale et le point où ils se trouvent, épinglés sur une carte open source : MapLibre dessinant des tuiles OpenFreeMap, sans clé et sans suivi. Une épingle ouvre le nom du lieu.'
@@ -32,7 +33,8 @@ fr:
 
 zh:
   page_title: 地理
-  page_description: "带有邮政地址和坐标的地点，标注在使用 OpenFreeMap 瓦片的开源 MapLibre 地图上——无需 API 密钥，没有追踪。"
+  document_title: '在 MapLibre 上的开源地图上的地点'
+  page_description: '带有邮政地址和坐标的地点，标注在使用 OpenFreeMap 瓦片的开源 MapLibre 地图上——无需 API 密钥，没有追踪。'
   page_icon: 'ph:bold/map-trifold'
   intro: '存储有邮政地址的地点及其所在位置，标记在开放源代码地图上：MapLibre 绘制 OpenFreeMap 瓦片，无需密钥且不进行追踪。点击标记可打开地点名称。'
   geocoder:
@@ -46,7 +48,8 @@ zh:
 
 ar:
   page_title: جيو
-  page_description: "أماكن مخزّنة بعنوانها البريدي وإحداثياتها، مثبّتة على خريطة MapLibre مفتوحة المصدر ببلاطات OpenFreeMap — بلا مفتاح API ولا تتبّع."
+  document_title: 'أماكن على خريطة مفتوحة المصدر باستخدام MapLibre'
+  page_description: 'أماكن مخزّنة بعنوانها البريدي وإحداثياتها، مثبّتة على خريطة MapLibre مفتوحة المصدر ببلاطات OpenFreeMap — بلا مفتاح API ولا تتبّع.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'أماكن مخزنة بعنوان بريدي والنقطة التي تقع عليها، مثبتة على خريطة مفتوحة المصدر: MapLibre ترسم بلاطات OpenFreeMap، بدون مفتاح وبدون تتبع. دبوس يفتح اسم المكان.'
   geocoder:
@@ -60,7 +63,8 @@ ar:
 
 hi:
   page_title: भूगोल
-  page_description: "डाक पते और निर्देशांकों के साथ संग्रहीत स्थान, OpenFreeMap टाइलों वाले ओपन-सोर्स MapLibre मानचित्र पर — न API कुंजी, न ट्रैकिंग।"
+  document_title: 'MapLibre के साथ ओपन-सोर्स मैप पर स्थान'
+  page_description: 'डाक पते और निर्देशांकों के साथ संग्रहीत स्थान, OpenFreeMap टाइलों वाले ओपन-सोर्स MapLibre मानचित्र पर — न API कुंजी, न ट्रैकिंग।'
   page_icon: 'ph:bold/map-trifold'
   intro: 'पते के साथ संग्रहीत स्थान और जिस बिंदु पर यह स्थित है, उसे एक ओपन सोर्स मानचित्र पर पिन किया गया है: MapLibre OpenFreeMap टाइल्स बनाना, कोई कुंजी और कोई ट्रैकिंग नहीं। एक पिन स्थान का नाम खोलता है।'
   geocoder:
@@ -74,7 +78,8 @@ hi:
 
 he:
   page_title: גיאו
-  page_description: "מקומות השמורים עם כתובת הדואר והקואורדינטות שלהם, מסומנים על מפת MapLibre בקוד פתוח עם אריחי OpenFreeMap — בלי מפתח API ובלי מעקב."
+  document_title: 'מקומות במפה קוד פתוח עם MapLibre'
+  page_description: 'מקומות השמורים עם כתובת הדואר והקואורדינטות שלהם, מסומנים על מפת MapLibre בקוד פתוח עם אריחי OpenFreeMap — בלי מפתח API ובלי מעקב.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'מקומות שנשמרו עם כתובת דואר ונקודת המיקום שלהם, מסומנים על מפה בקוד פתוח: MapLibre מציירת טילס של OpenFreeMap, ללא מפתח וללא מעקב. סיכה פותחת את שם המקום.'
   geocoder:
@@ -88,7 +93,8 @@ he:
 
 fa:
   page_title: جغرافیا
-  page_description: "مکان‌هایی با نشانی پستی و مختصات، سنجاق‌شده روی نقشه متن‌باز MapLibre با کاشی‌های OpenFreeMap — بدون کلید API و بدون ردیابی."
+  document_title: 'مکان‌ها در نقشه منبع باز با MapLibre'
+  page_description: 'مکان‌هایی با نشانی پستی و مختصات، سنجاق‌شده روی نقشه متن‌باز MapLibre با کاشی‌های OpenFreeMap — بدون کلید API و بدون ردیابی.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'مکان‌هایی که با یک آدرس پستی ذخیره شده‌اند و نقطه‌ای که روی آن قرار دارند، روی نقشه‌ای منبع باز: نقشه‌لیبره که کاشی‌های OpenFreeMap را ترسیم می‌کند، بدون کلید و بدون ردیابی. یک پین نام مکان را باز می‌کند.'
   geocoder:
@@ -102,7 +108,8 @@ fa:
 
 ur:
   page_title: جغرافیا
-  page_description: "ڈاک کے پتے اور کوآرڈینیٹس کے ساتھ محفوظ مقامات، OpenFreeMap ٹائلز والے اوپن سورس MapLibre نقشے پر — نہ API کلید، نہ ٹریکنگ۔"
+  document_title: 'MapLibre کے ساتھ اوپن سورس نقشے پر مقامات'
+  page_description: 'ڈاک کے پتے اور کوآرڈینیٹس کے ساتھ محفوظ مقامات، OpenFreeMap ٹائلز والے اوپن سورس MapLibre نقشے پر — نہ API کلید، نہ ٹریکنگ۔'
   page_icon: 'ph:bold/map-trifold'
   intro: 'ایسی جگہیں جو ڈاک کے پتے کے ساتھ محفوظ ہیں اور جس نقطہ پر وہ واقع ہیں، ایک اوپن سورس نقشے پر پن کی گئی ہیں: MapLibre اوپن فری میپ ٹائلز بناتا ہے، بغیر کسی کلید اور بغیر کسی ٹریکنگ کے۔ ایک پن جگہ کا نام کھولتا ہے۔'
   geocoder:
@@ -116,7 +123,8 @@ ur:
 
 ja:
   page_title: 地理
-  page_description: "住所と座標を持つ場所を、OpenFreeMap タイルを使うオープンソースの MapLibre 地図にピン表示。API キー不要、トラッキングなし。"
+  document_title: MapLibreを使ったオープンソースマップ上の場所
+  page_description: '住所と座標を持つ場所を、OpenFreeMap タイルを使うオープンソースの MapLibre 地図にピン表示。API キー不要、トラッキングなし。'
   page_icon: 'ph:bold/map-trifold'
   intro: 郵便住所で保存された場所と、その場所の位置を示すポイントがオープンソースマップにピン留めされています：MapLibreがOpenFreeMapタイルを描画しており、キーやトラッキングはありません。ピンをクリックすると、その場所の名前が表示されます。
   geocoder:
@@ -130,7 +138,8 @@ ja:
 
 ko:
   page_title: 지리
-  page_description: "우편 주소와 좌표로 저장된 장소를 OpenFreeMap 타일을 쓰는 오픈소스 MapLibre 지도에 표시 — API 키도, 추적도 없음."
+  document_title: 'MapLibre가 있는 오픈 소스 맵의 장소'
+  page_description: '우편 주소와 좌표로 저장된 장소를 OpenFreeMap 타일을 쓰는 오픈소스 MapLibre 지도에 표시 — API 키도, 추적도 없음.'
   page_icon: 'ph:bold/map-trifold'
   intro: '우편 주소로 저장된 장소와 그 위치를 표시하는 오픈 소스 지도에 핀으로 표시됩니다: MapLibre에서 OpenFreeMap 타일을 그리며, 키와 추적이 없습니다. 핀을 클릭하면 장소의 이름이 열립니다.'
   geocoder:
@@ -144,7 +153,8 @@ ko:
 
 bn:
   page_title: জিও
-  page_description: "ডাক ঠিকানা ও স্থানাঙ্কসহ সংরক্ষিত স্থান, OpenFreeMap টাইলের ওপেন-সোর্স MapLibre মানচিত্রে চিহ্নিত — কোনো API কী নেই, কোনো ট্র্যাকিং নেই।"
+  document_title: 'MapLibre এর ওপেন-সোর্স ম্যাপে স্থানগুলি'
+  page_description: 'ডাক ঠিকানা ও স্থানাঙ্কসহ সংরক্ষিত স্থান, OpenFreeMap টাইলের ওপেন-সোর্স MapLibre মানচিত্রে চিহ্নিত — কোনো API কী নেই, কোনো ট্র্যাকিং নেই।'
   page_icon: 'ph:bold/map-trifold'
   intro: 'পোস্টাল ঠিকানা সহ সংরক্ষিত স্থান এবং এটি যে পয়েন্টে অবস্থিত, একটি ওপেন সোর্স ম্যাপে পিন করা: MapLibre OpenFreeMap টাইলগুলি আঁকছে, কোন কী এবং কোন ট্র্যাকিং নেই। একটি পিন স্থানটির নাম খোলে।'
   geocoder:
@@ -158,7 +168,8 @@ bn:
 
 th:
   page_title: จีโอ
-  page_description: "สถานที่ที่จัดเก็บพร้อมที่อยู่และพิกัด ปักหมุดบนแผนที่ MapLibre โอเพนซอร์สด้วยไทล์ OpenFreeMap — ไม่ต้องใช้คีย์ API ไม่มีการติดตาม"
+  document_title: 'สถานที่บนแผนที่โอเพนซอร์สด้วย MapLibre'
+  page_description: 'สถานที่ที่จัดเก็บพร้อมที่อยู่และพิกัด ปักหมุดบนแผนที่ MapLibre โอเพนซอร์สด้วยไทล์ OpenFreeMap — ไม่ต้องใช้คีย์ API ไม่มีการติดตาม'
   page_icon: 'ph:bold/map-trifold'
   intro: 'สถานที่ที่เก็บไว้พร้อมที่อยู่ไปรษณีย์และจุดที่ตั้งบนแผนที่โอเพ่นซอร์ส: MapLibre วาดแผนที่ OpenFreeMap ไม่ต้องใช้คีย์และไม่มีการติดตาม ปักหมุดจะเปิดชื่อสถานที่'
   geocoder:
@@ -172,7 +183,8 @@ th:
 
 de:
   page_title: Geo
-  page_description: "Orte mit Postanschrift und Koordinaten, auf einer Open-Source-Karte von MapLibre mit OpenFreeMap-Kacheln markiert — ohne API-Schlüssel, ohne Tracking."
+  document_title: 'Orte auf einer Open-Source-Karte mit MapLibre'
+  page_description: 'Orte mit Postanschrift und Koordinaten, auf einer Open-Source-Karte von MapLibre mit OpenFreeMap-Kacheln markiert — ohne API-Schlüssel, ohne Tracking.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Orte, die mit einer Postadresse gespeichert sind und der Punkt, an dem sie sich befinden, auf einer Open-Source-Karte angezeigt werden: MapLibre zeichnet OpenFreeMap-Kacheln, kein Schlüssel und keine Nachverfolgung. Ein Pin öffnet den Namen des Ortes.'
   geocoder:
@@ -186,7 +198,8 @@ de:
 
 fi:
   page_title: Geo
-  page_description: "Paikat postiosoitteineen ja koordinaatteineen, merkittynä avoimen lähdekoodin MapLibre-karttaan OpenFreeMap-tiilillä — ei API-avainta, ei seurantaa."
+  document_title: 'Paikat avoimen lähdekoodin kartalla MapLibren avulla'
+  page_description: 'Paikat postiosoitteineen ja koordinaatteineen, merkittynä avoimen lähdekoodin MapLibre-karttaan OpenFreeMap-tiilillä — ei API-avainta, ei seurantaa.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Paikat, joilla on postiosoite ja niiden sijaintipiste, merkitty avoimen lähdekoodin kartalle: MapLibre piirtää OpenFreeMap-laattoja, ei avainta eikä seurantaa. Nuoli avaa paikan nimen.'
   geocoder:
@@ -200,7 +213,8 @@ fi:
 
 ru:
   page_title: Гео
-  page_description: "Места с почтовым адресом и координатами на открытой карте MapLibre с тайлами OpenFreeMap — без API-ключа и без слежки."
+  document_title: 'Места на открытой карте с MapLibre'
+  page_description: 'Места с почтовым адресом и координатами на открытой карте MapLibre с тайлами OpenFreeMap — без API-ключа и без слежки.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Места, сохраненные с почтовым адресом и точкой на открытой карте: MapLibre рисует тайлы OpenFreeMap, без ключа и без отслеживания. Метка открывает название места.'
   geocoder:
@@ -214,7 +228,8 @@ ru:
 
 pl:
   page_title: Geo
-  page_description: "Miejsca zapisane z adresem pocztowym i współrzędnymi, oznaczone na otwartoźródłowej mapie MapLibre z kafelkami OpenFreeMap — bez klucza API i bez śledzenia."
+  document_title: 'Miejsca na mapie open-source z MapLibre'
+  page_description: 'Miejsca zapisane z adresem pocztowym i współrzędnymi, oznaczone na otwartoźródłowej mapie MapLibre z kafelkami OpenFreeMap — bez klucza API i bez śledzenia.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Miejsca przechowywane z adresem pocztowym i punktem, w którym się znajdują, przypięte na otwartej mapie źródłowej: MapLibre rysującej kafelki OpenFreeMap, bez klucza i bez śledzenia. Przypinka otwiera nazwę miejsca.'
   geocoder:
@@ -228,7 +243,8 @@ pl:
 
 es:
   page_title: Geo
-  page_description: "Lugares guardados con su dirección postal y coordenadas, marcados en un mapa MapLibre de código abierto con teselas de OpenFreeMap — sin clave de API ni rastreo."
+  document_title: 'Lugares en un mapa de código abierto con MapLibre'
+  page_description: 'Lugares guardados con su dirección postal y coordenadas, marcados en un mapa MapLibre de código abierto con teselas de OpenFreeMap — sin clave de API ni rastreo.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Lugares almacenados con una dirección postal y el punto en el que se encuentran, fijados en un mapa de código abierto: MapLibre dibujando los mosaicos de OpenFreeMap, sin clave y sin seguimiento. Un pin abre el nombre del lugar.'
   geocoder:
@@ -242,7 +258,8 @@ es:
 
 it:
   page_title: Geo
-  page_description: "Luoghi registrati con indirizzo postale e coordinate, segnati su una mappa MapLibre open source con tessere OpenFreeMap — senza chiave API né tracciamento."
+  document_title: 'Luoghi su una mappa open-source con MapLibre'
+  page_description: 'Luoghi registrati con indirizzo postale e coordinate, segnati su una mappa MapLibre open source con tessere OpenFreeMap — senza chiave API né tracciamento.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Luoghi memorizzati con un indirizzo postale e il punto in cui si trovano, fissati su una mappa open source: MapLibre che disegna i riquadri di OpenFreeMap, senza chiave e senza tracciamento. Un pin apre il nome del luogo.'
   geocoder:
@@ -256,7 +273,8 @@ it:
 
 pt_BR:
   page_title: Geo
-  page_description: "Lugares salvos com endereço postal e coordenadas, marcados em um mapa MapLibre de código aberto com blocos do OpenFreeMap — sem chave de API e sem rastreamento."
+  document_title: 'Locais em um mapa de código aberto com MapLibre'
+  page_description: 'Lugares salvos com endereço postal e coordenadas, marcados em um mapa MapLibre de código aberto com blocos do OpenFreeMap — sem chave de API e sem rastreamento.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Locais armazenados com um endereço postal e o ponto onde estão, fixados em um mapa de código aberto: MapLibre desenhando os blocos do OpenFreeMap, sem chave e sem rastreamento. Um pino abre o nome do local.'
   geocoder:
@@ -270,7 +288,8 @@ pt_BR:
 
 tr:
   page_title: Coğrafya
-  page_description: "Posta adresi ve koordinatlarıyla kaydedilen yerler, OpenFreeMap karolu açık kaynak MapLibre haritasında işaretli — API anahtarı yok, izleme yok."
+  document_title: 'MapLibre ile açık kaynak haritasındaki Yerler'
+  page_description: 'Posta adresi ve koordinatlarıyla kaydedilen yerler, OpenFreeMap karolu açık kaynak MapLibre haritasında işaretli — API anahtarı yok, izleme yok.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Bir posta adresi ile saklanan yerler ve yerin bulunduğu nokta, açık kaynak haritasında işaretlenmiştir: MapLibre, OpenFreeMap karolarını çiziyor, anahtar yok ve takip yok. Bir pim, yerin adını açar.'
   geocoder:
@@ -284,7 +303,8 @@ tr:
 
 vi:
   page_title: 'Địa lý'
-  page_description: "Các địa điểm lưu kèm địa chỉ bưu chính và tọa độ, ghim trên bản đồ MapLibre mã nguồn mở với ô bản đồ OpenFreeMap — không cần khóa API, không theo dõi."
+  document_title: 'Địa điểm trên bản đồ mã nguồn mở với MapLibre'
+  page_description: 'Các địa điểm lưu kèm địa chỉ bưu chính và tọa độ, ghim trên bản đồ MapLibre mã nguồn mở với ô bản đồ OpenFreeMap — không cần khóa API, không theo dõi.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Các địa điểm được lưu trữ với địa chỉ bưu điện và điểm mà nó nằm trên, được ghim trên bản đồ mã nguồn mở: MapLibre vẽ các ô OpenFreeMap, không cần khóa và không theo dõi. Một cái ghim mở ra tên địa điểm.'
   geocoder:
@@ -298,7 +318,8 @@ vi:
 
 id:
   page_title: Geo
-  page_description: "Tempat yang disimpan dengan alamat pos dan koordinatnya, ditandai di peta MapLibre sumber terbuka dengan ubin OpenFreeMap — tanpa kunci API, tanpa pelacakan."
+  document_title: 'Tempat-tempat di peta sumber terbuka dengan MapLibre'
+  page_description: 'Tempat yang disimpan dengan alamat pos dan koordinatnya, ditandai di peta MapLibre sumber terbuka dengan ubin OpenFreeMap — tanpa kunci API, tanpa pelacakan.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Tempat yang disimpan dengan alamat pos dan titiknya, ditandai pada peta sumber terbuka: MapLibre menggambar ubin OpenFreeMap, tanpa kunci dan tanpa pelacakan. Sebuah pin membuka nama tempat.'
   geocoder:
@@ -312,7 +333,8 @@ id:
 
 nl:
   page_title: Geo
-  page_description: "Plaatsen opgeslagen met postadres en coördinaten, gemarkeerd op een opensource MapLibre-kaart met OpenFreeMap-tegels — geen API-sleutel, geen tracking."
+  document_title: 'Plaatsen op een open-source kaart met MapLibre'
+  page_description: 'Plaatsen opgeslagen met postadres en coördinaten, gemarkeerd op een opensource MapLibre-kaart met OpenFreeMap-tegels — geen API-sleutel, geen tracking.'
   page_icon: 'ph:bold/map-trifold'
   intro: 'Plaatsen opgeslagen met een postadres en het punt waar ze zich bevinden, vastgelegd op een open source kaart: MapLibre tekent OpenFreeMap tegels, geen sleutel en geen tracking. Een pin opent de naam van de plaats.'
   geocoder:

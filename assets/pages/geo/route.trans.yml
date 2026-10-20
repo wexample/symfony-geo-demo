@@ -10,132 +10,154 @@ en:
 
 fr:
   page_title: Itinéraire
+  document_title: 'Itinéraire routier entre les lieux avec OSRM'
   page_description: "Un itinéraire routier reliant plusieurs lieux dans l'ordre, calculé par un serveur de routage OSRM et tracé sur une carte open source."
   page_icon: 'ph:bold/path'
   intro: "La route reliant trois lieux, dans l'ordre, demandée à un serveur OSRM. Le public sert uniquement aux démonstrations : une application en production pointe wexample_symfony_geo_ds.routing.url vers la sienne."
 
 zh:
   page_title: 路线
-  page_description: "按顺序连接多个地点的道路路线，由 OSRM 路径规划服务器计算，并绘制在开源地图上。"
+  document_title: 使用OSRM进行地点间的路线规划
+  page_description: '按顺序连接多个地点的道路路线，由 OSRM 路径规划服务器计算，并绘制在开源地图上。'
   page_icon: 'ph:bold/path'
   intro: '连接三个地点的道路，按照顺序，由 OSRM 服务器请求。公共服务器仅用于演示：生产中的应用程序将 wexample_symfony_geo_ds.routing.url 指向自己的服务器。'
 
 ar:
   page_title: المسار
-  page_description: "مسار طرقي يربط عدة أماكن بالترتيب، يحسبه خادم توجيه OSRM ويُرسم على خريطة مفتوحة المصدر."
+  document_title: 'توجيه الطرق بين الأماكن باستخدام OSRM'
+  page_description: 'مسار طرقي يربط عدة أماكن بالترتيب، يحسبه خادم توجيه OSRM ويُرسم على خريطة مفتوحة المصدر.'
   page_icon: 'ph:bold/path'
   intro: 'الطريق الذي يربط بين ثلاثة أماكن، بالترتيب، طلب من خادم OSRM. الخادم العام يخدم العروض فقط: تطبيق في الإنتاج يشير إلى wexample_symfony_geo_ds.routing.url الخاص به.'
 
 hi:
   page_title: मार्ग
-  page_description: "कई स्थानों को क्रम से जोड़ता सड़क मार्ग, OSRM रूटिंग सर्वर द्वारा गणना किया गया और ओपन-सोर्स मानचित्र पर बनाया गया।"
+  document_title: 'OSRM के साथ स्थानों के बीच मार्ग निर्धारण'
+  page_description: 'कई स्थानों को क्रम से जोड़ता सड़क मार्ग, OSRM रूटिंग सर्वर द्वारा गणना किया गया और ओपन-सोर्स मानचित्र पर बनाया गया।'
   page_icon: 'ph:bold/path'
   intro: 'तीन स्थानों को, क्रम में, जोड़ने वाला रास्ता, OSRM सर्वर से पूछा गया। सार्वजनिक वाला केवल डेमो प्रदान करता है: उत्पादन में एक ऐप अपने स्वयं के wexample_symfony_geo_ds.routing.url पर इंगित करता है।'
 
 he:
   page_title: נתיב
-  page_description: "מסלול נסיעה המחבר כמה מקומות לפי הסדר, מחושב על ידי שרת ניתוב OSRM ומצויר על מפה בקוד פתוח."
+  document_title: 'תכנון מסלול בין מקומות עם OSRM'
+  page_description: 'מסלול נסיעה המחבר כמה מקומות לפי הסדר, מחושב על ידי שרת ניתוב OSRM ומצויר על מפה בקוד פתוח.'
   page_icon: 'ph:bold/path'
   intro: 'הדרך המחברת בין שלושה מקומות, בסדר, שנשאלה משרת OSRM. הציבורי משמש רק להצגות: אפליקציה בייצור מצביעה wexample_symfony_geo_ds.routing.url על שלה.'
 
 fa:
   page_title: مسیر
-  page_description: "مسیری جاده‌ای که چند مکان را به ترتیب به هم وصل می‌کند، محاسبه‌شده با سرور مسیریابی OSRM و ترسیم‌شده روی نقشه‌ای متن‌باز."
+  document_title: 'مسیر یابی جاده ای بین مکان ها با OSRM'
+  page_description: 'مسیری جاده‌ای که چند مکان را به ترتیب به هم وصل می‌کند، محاسبه‌شده با سرور مسیریابی OSRM و ترسیم‌شده روی نقشه‌ای متن‌باز.'
   page_icon: 'ph:bold/path'
   intro: 'جاده‌ای که سه مکان را به ترتیب به هم متصل می‌کند و از یک سرور OSRM خواسته می‌شود. نسخه عمومی فقط برای دموها است: یک اپلیکیشن در حال تولید به wexample_symfony_geo_ds.routing.url خود اشاره می‌کند.'
 
 ur:
   page_title: راستہ
-  page_description: "کئی مقامات کو ترتیب سے جوڑنے والا سڑک کا راستہ، OSRM روٹنگ سرور سے حساب کیا گیا اور اوپن سورس نقشے پر بنایا گیا۔"
+  document_title: 'مقامات کے درمیان راستہ بندی OSRM کے ساتھ'
+  page_description: 'کئی مقامات کو ترتیب سے جوڑنے والا سڑک کا راستہ، OSRM روٹنگ سرور سے حساب کیا گیا اور اوپن سورس نقشے پر بنایا گیا۔'
   page_icon: 'ph:bold/path'
   intro: 'تین مقامات کو جوڑنے والی سڑک، ترتیب کے مطابق، OSRM سرور سے پوچھی گئی۔ عوامی سرور صرف ڈیمو کے لیے ہے: پروڈکشن میں ایک ایپ اپنے لیے wexample_symfony_geo_ds.routing.url کی طرف اشارہ کرتی ہے۔'
 
 ja:
   page_title: ルート
-  page_description: "複数の地点を順につなぐ道路ルート。OSRM ルーティングサーバーで算出し、オープンソースの地図に描画。"
+  document_title: OSRMを使用した場所間のルート案内
+  page_description: '複数の地点を順につなぐ道路ルート。OSRM ルーティングサーバーで算出し、オープンソースの地図に描画。'
   page_icon: 'ph:bold/path'
   intro: OSRMサーバーに依頼された、順番に3つの地点を結ぶ道路。公共のものはデモ専用で、実稼働中のアプリは自分のwexample_symfony_geo_ds.routing.urlを指しています。
 
 ko:
   page_title: 경로
-  page_description: "여러 장소를 순서대로 잇는 도로 경로를 OSRM 라우팅 서버로 계산해 오픈소스 지도에 그립니다."
+  document_title: 'OSRM을 사용한 장소 간 경로 안내'
+  page_description: '여러 장소를 순서대로 잇는 도로 경로를 OSRM 라우팅 서버로 계산해 오픈소스 지도에 그립니다.'
   page_icon: 'ph:bold/path'
   intro: '세 장소를 순서대로 연결하는 도로로, OSRM 서버에 요청합니다. 공용 서버는 데모 용도로만 사용되며, 실제 운영 중인 앱은 자신의 wexample_symfony_geo_ds.routing.url을 가리킵니다.'
 
 bn:
   page_title: রাস্তা
-  page_description: "কয়েকটি স্থানকে ক্রমানুসারে যুক্ত করা সড়কপথ, OSRM রাউটিং সার্ভারে গণনা করা এবং ওপেন-সোর্স মানচিত্রে আঁকা।"
+  document_title: 'OSRM এর সাহায্যে স্থানের মধ্যে রোড রাউটিং'
+  page_description: 'কয়েকটি স্থানকে ক্রমানুসারে যুক্ত করা সড়কপথ, OSRM রাউটিং সার্ভারে গণনা করা এবং ওপেন-সোর্স মানচিত্রে আঁকা।'
   page_icon: 'ph:bold/path'
   intro: 'তিনটি স্থানের মধ্যে সংযোগকারী রাস্তা, OSRM সার্ভার থেকে জিজ্ঞাসা করা হয়েছে। জনসাধারণের জন্য একটি ডেমো সার্ভার রয়েছে: একটি উৎপাদন অ্যাপ্লিকেশন নিজস্ব ঠিকানায় wexample_symfony_geo_ds.routing.url নির্দেশ করে।'
 
 th:
   page_title: เส้นทาง
-  page_description: "เส้นทางถนนที่เชื่อมหลายสถานที่ตามลำดับ คำนวณโดยเซิร์ฟเวอร์ OSRM และวาดบนแผนที่โอเพนซอร์ส"
+  document_title: 'การกำหนดเส้นทางระหว่างสถานที่ด้วย OSRM'
+  page_description: 'เส้นทางถนนที่เชื่อมหลายสถานที่ตามลำดับ คำนวณโดยเซิร์ฟเวอร์ OSRM และวาดบนแผนที่โอเพนซอร์ส'
   page_icon: 'ph:bold/path'
   intro: 'ถนนที่เชื่อมโยงสามสถานที่ตามลำดับ ซึ่งขอจากเซิร์ฟเวอร์ OSRM เซิร์ฟเวอร์สาธารณะให้บริการเฉพาะการสาธิต: แอปพลิเคชันในระบบผลิตชี้ไปที่ wexample_symfony_geo_ds.routing.url ของตนเอง.'
 
 de:
   page_title: Route
-  page_description: "Eine Straßenroute, die mehrere Orte der Reihe nach verbindet, von einem OSRM-Routingserver berechnet und auf einer Open-Source-Karte gezeichnet."
+  document_title: 'Routenplanung zwischen Orten mit OSRM'
+  page_description: 'Eine Straßenroute, die mehrere Orte der Reihe nach verbindet, von einem OSRM-Routingserver berechnet und auf einer Open-Source-Karte gezeichnet.'
   page_icon: 'ph:bold/path'
   intro: 'Die Straße, die drei Orte in der richtigen Reihenfolge verbindet, wurde von einem OSRM-Server angefordert. Der öffentliche Server dient nur Demos: Eine Produktionsanwendung verweist wexample_symfony_geo_ds.routing.url auf ihre eigene.'
 
 fi:
   page_title: Reitti
-  page_description: "Useita paikkoja järjestyksessä yhdistävä tiereitti, laskettu OSRM-reitityspalvelimella ja piirretty avoimen lähdekoodin karttaan."
+  document_title: 'Reittisuunnittelu paikkojen välillä OSRM:llä'
+  page_description: 'Useita paikkoja järjestyksessä yhdistävä tiereitti, laskettu OSRM-reitityspalvelimella ja piirretty avoimen lähdekoodin karttaan.'
   page_icon: 'ph:bold/path'
   intro: 'Tie, joka yhdistää kolme paikkaa järjestyksessä, kysytään OSRM-palvelimelta. Julkinen palvelee vain demotarkoituksia: tuotantokäytössä oleva sovellus osoittaa wexample_symfony_geo_ds.routing.url omaansa.'
 
 ru:
   page_title: Маршрут
-  page_description: "Дорожный маршрут через несколько мест по порядку, рассчитанный сервером маршрутизации OSRM и нарисованный на открытой карте."
+  document_title: 'Маршрутизация между местами с OSRM'
+  page_description: 'Дорожный маршрут через несколько мест по порядку, рассчитанный сервером маршрутизации OSRM и нарисованный на открытой карте.'
   page_icon: 'ph:bold/path'
   intro: 'Дорога, соединяющая три места в указанном порядке, запрашиваемая у сервера OSRM. Публичный сервер предназначен только для демонстраций: приложение в производстве указывает wexample_symfony_geo_ds.routing.url на свой собственный.'
 
 pl:
   page_title: Trasa
-  page_description: "Trasa drogowa łącząca kilka miejsc po kolei, wyznaczona przez serwer routingu OSRM i narysowana na otwartoźródłowej mapie."
+  document_title: 'Wyznaczanie trasy między miejscami za pomocą OSRM'
+  page_description: 'Trasa drogowa łącząca kilka miejsc po kolei, wyznaczona przez serwer routingu OSRM i narysowana na otwartoźródłowej mapie.'
   page_icon: 'ph:bold/path'
   intro: 'Droga łącząca trzy miejsca, w kolejności, zapytana o serwer OSRM. Publiczny serwer służy tylko do pokazów: aplikacja w produkcji kieruje wexample_symfony_geo_ds.routing.url na własny.'
 
 es:
   page_title: Ruta
-  page_description: "Una ruta por carretera que une varios lugares en orden, calculada por un servidor de rutas OSRM y trazada en un mapa de código abierto."
+  document_title: 'Ruta entre lugares con OSRM'
+  page_description: 'Una ruta por carretera que une varios lugares en orden, calculada por un servidor de rutas OSRM y trazada en un mapa de código abierto.'
   page_icon: 'ph:bold/path'
   intro: 'La carretera que une tres lugares, en orden, solicitada a un servidor OSRM. El público solo sirve para demostraciones: una aplicación en producción apunta wexample_symfony_geo_ds.routing.url a la suya.'
 
 it:
   page_title: Percorso
-  page_description: "Un percorso stradale che collega più luoghi in ordine, calcolato da un server di routing OSRM e tracciato su una mappa open source."
+  document_title: 'Pianificazione del percorso tra luoghi con OSRM'
+  page_description: 'Un percorso stradale che collega più luoghi in ordine, calcolato da un server di routing OSRM e tracciato su una mappa open source.'
   page_icon: 'ph:bold/path'
   intro: "La strada che unisce tre luoghi, in ordine, richiesta a un server OSRM. Quello pubblico serve solo per le dimostrazioni: un'app in produzione punta wexample_symfony_geo_ds.routing.url al proprio."
 
 pt_BR:
   page_title: Rota
-  page_description: "Uma rota rodoviária que liga vários lugares em ordem, calculada por um servidor de rotas OSRM e traçada em um mapa de código aberto."
+  document_title: 'Roteamento de estrada entre lugares com OSRM'
+  page_description: 'Uma rota rodoviária que liga vários lugares em ordem, calculada por um servidor de rotas OSRM e traçada em um mapa de código aberto.'
   page_icon: 'ph:bold/path'
   intro: 'A estrada que liga três lugares, em ordem, solicitada a um servidor OSRM. O público serve apenas para demonstrações: um aplicativo em produção aponta wexample_symfony_geo_ds.routing.url para o seu próprio.'
 
 tr:
   page_title: Rota
-  page_description: "Birkaç yeri sırayla birleştiren karayolu rotası, OSRM yönlendirme sunucusuyla hesaplanıp açık kaynak bir haritada çizilmiş."
+  document_title: 'OSRM ile yerler arasında yol yönlendirme'
+  page_description: 'Birkaç yeri sırayla birleştiren karayolu rotası, OSRM yönlendirme sunucusuyla hesaplanıp açık kaynak bir haritada çizilmiş.'
   page_icon: 'ph:bold/path'
   intro: 'Üç yeri sırasıyla birleştiren yol, bir OSRM sunucusundan istenmektedir. Kamuya açık olanı yalnızca demolar için hizmet vermektedir: üretimdeki bir uygulama, kendi adresine wexample_symfony_geo_ds.routing.url yönlendirmesi yapar.'
 
 vi:
   page_title: 'Lộ trình'
-  page_description: "Lộ trình đường bộ nối nhiều địa điểm theo thứ tự, được máy chủ định tuyến OSRM tính toán và vẽ trên bản đồ mã nguồn mở."
+  document_title: 'Lập lộ trình giữa các địa điểm với OSRM'
+  page_description: 'Lộ trình đường bộ nối nhiều địa điểm theo thứ tự, được máy chủ định tuyến OSRM tính toán và vẽ trên bản đồ mã nguồn mở.'
   page_icon: 'ph:bold/path'
   intro: 'Con đường nối ba địa điểm lại với nhau, theo thứ tự, yêu cầu từ một máy chủ OSRM. Máy chủ công cộng chỉ phục vụ cho các bản demo: một ứng dụng trong môi trường sản xuất chỉ đến wexample_symfony_geo_ds.routing.url của chính nó.'
 
 id:
   page_title: Rute
-  page_description: "Rute jalan yang menghubungkan beberapa tempat secara berurutan, dihitung oleh server rute OSRM dan digambar di peta sumber terbuka."
+  document_title: 'Pengaturan rute antara tempat dengan OSRM'
+  page_description: 'Rute jalan yang menghubungkan beberapa tempat secara berurutan, dihitung oleh server rute OSRM dan digambar di peta sumber terbuka.'
   page_icon: 'ph:bold/path'
   intro: 'Jalan yang menghubungkan tiga tempat, secara berurutan, diminta dari server OSRM. Yang publik hanya melayani demo: aplikasi dalam produksi mengarah ke wexample_symfony_geo_ds.routing.url pada miliknya sendiri.'
 
 nl:
   page_title: Route
-  page_description: "Een wegroute die meerdere plaatsen op volgorde verbindt, berekend door een OSRM-routeserver en getekend op een opensource kaart."
+  document_title: 'Routeplanning tussen locaties met OSRM'
+  page_description: 'Een wegroute die meerdere plaatsen op volgorde verbindt, berekend door een OSRM-routeserver en getekend op een opensource kaart.'
   page_icon: 'ph:bold/path'
   intro: "De weg die drie plaatsen verbindt, in volgorde, opgevraagd bij een OSRM-server. De publieke server is alleen voor demo's: een app in productie wijst wexample_symfony_geo_ds.routing.url naar de eigen."
