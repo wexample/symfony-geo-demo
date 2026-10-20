@@ -1,6 +1,6 @@
 # symfony-geo-demo
 
-Version: 2.0.7
+Version: 2.0.8
 
 Demo of symfony-geo: located addresses on a map, and a road between them
 
@@ -24,11 +24,11 @@ The suite includes packages for configuration management, file handling, prompts
 ## Dependencies
 
 - php: >=8.5
-- wexample/symfony-design-system: >=37.0.0
-- wexample/symfony-geo: >=7.0.0
+- wexample/symfony-design-system: >=38.0.0
+- wexample/symfony-geo: >=8.0.0
 - wexample/symfony-geo-ds: >=3.0.0
 - wexample/symfony-helpers: >=17.0.0
-- wexample/symfony-loader: >=23.2.0
+- wexample/symfony-loader: >=23.3.0
 
 ## Versioning & Compatibility Policy
 
