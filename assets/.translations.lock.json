@@ -254,15 +254,18 @@
     "pages/geo/index.fr.yml": {
         "column.address": {
             "hash": "8cfb57720071aeb3880b05bb5096f4c9",
-            "engine": "syrtis"
+            "engine": "syrtis",
+            "reviewed": "agent"
         },
         "column.name": {
             "hash": "6e50d9a472f54a2108d91f5773c90973",
-            "engine": "syrtis"
+            "engine": "syrtis",
+            "reviewed": "agent"
         },
         "column.point": {
             "hash": "c9c1d0fb844dc57fc123b773a5d1dad6",
-            "engine": "syrtis"
+            "engine": "syrtis",
+            "reviewed": "agent"
         },
         "document_title": {
             "hash": "2876953fa94b01e56748ef08ecdd0c1e",
@@ -274,7 +277,8 @@
         },
         "geocoder.label": {
             "hash": "4a1491fded4fcd9d5b360df4f39836f6",
-            "engine": "syrtis"
+            "engine": "syrtis",
+            "reviewed": "agent"
         },
         "geocoder.missing": {
             "hash": "bdf5af5ad98a2508fda9fa2d5e425245",
@@ -290,7 +294,8 @@
         },
         "page_title": {
             "hash": "4a9eaa020442a8d3bfce95a65e198f85",
-            "engine": "syrtis"
+            "engine": "syrtis",
+            "reviewed": "agent"
         }
     },
     "pages/geo/index.he.yml": {
@@ -1046,7 +1051,8 @@
         },
         "page_title": {
             "hash": "54070759ca031c8f3cb1ea6ff470244b",
-            "engine": "syrtis"
+            "engine": "syrtis",
+            "reviewed": "agent"
         }
     },
     "pages/geo/route.he.yml": {
