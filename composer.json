@@ -1,7 +1,7 @@
 {
   "name": "wexample/symfony-geo-demo",
   "description": "Demo of symfony-geo: located addresses on a map, and a road between them",
-  "version": "2.0.17",
+  "version": "2.0.18",
   "type": "library",
   "license": "MIT",
   "autoload": {
@@ -21,7 +21,7 @@
     "wexample/symfony-geo": ">=8.0.2",
     "wexample/symfony-geo-ds": ">=3.0.9",
     "wexample/symfony-helpers": ">=19.1.0",
-    "wexample/symfony-loader": ">=26.0.0"
+    "wexample/symfony-loader": ">=26.1.0"
   },
   "repositories": [
     {
