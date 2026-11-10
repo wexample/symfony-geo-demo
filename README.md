@@ -1,6 +1,6 @@
 # symfony-geo-demo
 
-Version: 2.0.20
+Version: 2.0.21
 
 Demo of symfony-geo: located addresses on a map, and a road between them
 
